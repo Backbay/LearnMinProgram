@@ -1,3 +1,4 @@
 <!--pages/home/home.wxml-->
 <text class="title">helloworld</text>
 <button size="mini">保存</button>
+<view>2.知识点2</view>
